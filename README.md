@@ -23,3 +23,10 @@ The project is organized as follows:
 5. **Tests**: Added tests to validate data quality and integrity.
 6. **Macros**: Defined reusable SQL snippets to streamline transformations.
 7. **Hooks**: Utilized hooks to execute SQL statements at specific points in the dbt workflow.
+
+
+## Proofs
+1. **dbt documentation**
+![dbt documentation](images/Screenshot 2024-11-23 190555.png)
+2. 
+
