@@ -32,7 +32,7 @@ The project is organized as follows:
 2. **Airbnb data Flow in Snowflake**
    ![data flow](images/Screenshot_2.png)
 
-3. **Final Snowflake Data Warehouse **
+3. **Final Snowflake Data Warehouse**
 ![Snowflake Datawarehouse](images/Screenshot_3.png)
 ![Snowflake Datawarehouse](images/Screenshot_4.png)
 
