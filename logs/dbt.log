@@ -1,0 +1,28 @@
+[0m01:21:00.669569 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C4FE50E90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C4FE50810>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C4FE83D10>]}
+
+
+============================== 01:21:00.673593 | e438770d-ba30-4cf1-8175-921633fb5f48 ==============================
+[0m01:21:00.673593 [info ] [MainThread]: Running with dbt=1.7.18
+[0m01:21:00.674597 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\amita\\.dbt', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'logs', 'debug': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'target_path': 'None', 'invocation_command': 'dbt init dbtlearn', 'send_anonymous_usage_stats': 'True'}
+[0m01:21:00.677592 [debug] [MainThread]: Starter project path: C:\Users\amita\SD\projects\airbnb_dbt_project\.venv\Lib\site-packages\dbt\include\starter_project
+[0m01:21:00.724449 [info ] [MainThread]: 
+Your new dbt project "dbtlearn" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m01:21:00.725429 [info ] [MainThread]: Setting up your profile.
+[0m01:24:50.006715 [info ] [MainThread]: Profile dbtlearn written to C:\Users\amita\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m01:24:50.007700 [debug] [MainThread]: Command `dbt init` succeeded at 01:24:50.007700 after 229.40 seconds
+[0m01:24:50.008699 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C4FE83D10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C4933A350>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018C490B8C50>]}
+[0m01:24:50.008699 [debug] [MainThread]: Flushing usage events
