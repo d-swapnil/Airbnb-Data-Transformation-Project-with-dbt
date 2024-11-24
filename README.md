@@ -28,5 +28,13 @@ The project is organized as follows:
 ## Proofs
 1. **dbt documentation**
 ![dbt documentation](images/Screenshot_1.png)
-2. 
 
+2. **Airbnb data Flow in Snowflake**
+   ![data flow](images/Screenshot_2.png)
+
+3. **Final Snowflake Data Warehouse **
+![Snowflake Datawarehouse](images/Screenshot_3.png)
+![Snowflake Datawarehouse](images/Screenshot_4.png)
+
+4. **Connecting Tableau to Snowflake**
+![Tableau sheet](images/Screenshot_5.png)
