@@ -27,6 +27,6 @@ The project is organized as follows:
 
 ## Proofs
 1. **dbt documentation**
-![dbt documentation](images/Screenshot 2024-11-23 190555.png)
+![dbt documentation](images/Screenshot_1.png)
 2. 
 
